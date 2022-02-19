@@ -1,0 +1,15 @@
+body {
+    overflow: hidden;
+}
+
+#canvas {
+    position:absolute;
+    z-index: 20;
+}
+
+#background {
+    position: absolute;
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+}
